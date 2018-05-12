@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43698'
     url: http://www.gutenberg.org/2009/agents/43698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46283#The-Motor-Bus-in-War--13-Being-the-Impressions-of-an-A.S.C.-Officer-during-Two-and-a-Half-Yea_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-07-14'
 gutenberg_type: Text
